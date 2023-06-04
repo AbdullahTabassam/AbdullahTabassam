@@ -15,7 +15,7 @@ On this GitHub page, you will find a collection of my projects, ranging from mac
 
 I invite you to explore my work and discover the potential of AI. If you are looking for an AI professional who is passionate, dedicated, and eager to make a difference, I am ready to embark on new challenges and contribute to the success of your organization.
 _______________________________________________
-Read my research paper at: 
-https://doi.org/10.48550/arxiv.2305.19298
+## Read my research paper (MLOps: A Step Forward to Enterprise Machine Learning) at: 
+### https://doi.org/10.48550/arxiv.2305.19298
 _______________________________________________
 Thank you for visiting, and I look forward to connecting and collaborating with you.
